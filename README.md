@@ -10,7 +10,7 @@ PUT /book/:id
 DELETE /book/:id
 ```
 ## DB Structure
-![Uploading schema.png…]()
+![schema](https://github.com/nrsu/golang-midterm/assets/75430472/c9425a7f-09c0-4dfc-9c37-ea4a6ae0448b)
 ```sh
 // Use DBML to define your database structure
 // Docs: https://dbml.dbdiagram.io/docs
