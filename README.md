@@ -10,6 +10,7 @@ PUT /book/:id
 DELETE /book/:id
 ```
 ## DB Structure
+![Uploading schema.png…]()
 ```sh
 // Use DBML to define your database structure
 // Docs: https://dbml.dbdiagram.io/docs
